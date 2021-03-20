@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "w4OoIoihpMZWUoSZ1ixvhIj0kNe1tjkmaJckjfUbV70CcCCNTPBPWlM5ZekCcKPAwgG8qsNoNIpRls8rvZgEBw==",
+  "dgSpecHash": "IIRHx61JT42iMk2tXidOOGfEgufOj3trHhumApey2iiW/B/V9kbGbecSkQZLYPjZeiNIwNw/jjjmvaIFe5q0XQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\braxt\\workspace\\InventoryRFIDLogger\\Bar Code Reader\\Bar Code Reader.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\braxt\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

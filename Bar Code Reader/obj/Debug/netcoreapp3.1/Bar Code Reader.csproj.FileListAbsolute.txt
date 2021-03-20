@@ -1,0 +1,26 @@
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\bin\Debug\netcoreapp3.1\Bar Code Reader.exe
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\bin\Debug\netcoreapp3.1\Bar Code Reader.deps.json
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\bin\Debug\netcoreapp3.1\Bar Code Reader.runtimeconfig.json
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\bin\Debug\netcoreapp3.1\Bar Code Reader.runtimeconfig.dev.json
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\bin\Debug\netcoreapp3.1\Bar Code Reader.dll
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\bin\Debug\netcoreapp3.1\Bar Code Reader.pdb
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.csprojAssemblyReference.cache
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.AssemblyInfoInputs.cache
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.AssemblyInfo.cs
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.csproj.CoreCompileInputs.cache
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.dll
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.pdb
+C:\Users\braxt\workspace\Bar Code Reader\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.genruntimeconfig.cache
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\bin\Debug\netcoreapp3.1\Bar Code Reader.exe
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\bin\Debug\netcoreapp3.1\Bar Code Reader.deps.json
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\bin\Debug\netcoreapp3.1\Bar Code Reader.runtimeconfig.json
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\bin\Debug\netcoreapp3.1\Bar Code Reader.runtimeconfig.dev.json
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\bin\Debug\netcoreapp3.1\Bar Code Reader.dll
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\bin\Debug\netcoreapp3.1\Bar Code Reader.pdb
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.csprojAssemblyReference.cache
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.AssemblyInfoInputs.cache
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.AssemblyInfo.cs
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.csproj.CoreCompileInputs.cache
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.dll
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.pdb
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.genruntimeconfig.cache

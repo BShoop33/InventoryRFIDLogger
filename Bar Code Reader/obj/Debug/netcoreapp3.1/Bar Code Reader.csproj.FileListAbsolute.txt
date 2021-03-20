@@ -24,3 +24,5 @@ C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\obj\Debug\netcoreap
 C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.dll
 C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.pdb
 C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.genruntimeconfig.cache
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\braxt\workspace\InventoryRFIDLogger\Bar Code Reader\obj\Debug\netcoreapp3.1\Bar Code Reader.csproj.CopyComplete
